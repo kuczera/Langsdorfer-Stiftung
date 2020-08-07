@@ -2,7 +2,7 @@
 
 # Home 
 
-![Logo](img/Logo_Langsdorfer_Stiftung.png.png){:width="72px"}
+![Logo](img/Logo_Langsdorfer_Stiftung.png){:width="72px"}
 
  Die Langsdorfer Stiftung wurde als Partnerstiftung der Bürgerstiftung Mittelhessen am 29. September 2008 gegründet. Das Stiftungskapital wurde durch die Gelder der Vereinsgemeinschaft „Dolles Dorf Langsdorf“ und durch Zuwendungen einzelner Langsdorfer Bürgerinnen und Bürger aufgebracht.
 
