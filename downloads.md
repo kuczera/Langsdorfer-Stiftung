@@ -2,7 +2,7 @@
 
 # Downloads 
 
-Auf dieser Seite finden sich Downloads von Einsatzabteilung und Verein
+Auf dieser Seite finden sich das Formular zur Sachkostenerstattung und die Satzung der Stiftung
 
 [Formular Sachkostenerstattung](downloads/Sachkostenerstattung.pdf)
 
