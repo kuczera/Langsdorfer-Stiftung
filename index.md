@@ -16,4 +16,4 @@ Für den Stiftungsbeirat Sibylle Starzacher (Vorsitzende)
 
 Für eine Förderung können Sie sich das Formular für [Sachkostenerstattung](downloads/Sachkostenerstattung.pdf) unter dem Button [Downloads](downloads.md)) herunterladen und die ausgefüllten Formulare bei der Vorsitzenden Sibylle Starzacher, Licher Pforte 25, 35423 Lich-Langsdorf oder bei dem stellvertretenden Vorsitzenden Pfarrer Hans-Peter Gieß, Am Geiersberg 12, 35423 Lich-Langsdorf abgeben
 
-![Logo](img/Logo_Langsdorfer_Stiftung.png){:width="72px"}
+![Logo](img/Logo_Langsdorfer_Stiftung.png){:width="144px"}
