@@ -1,11 +1,11 @@
-|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
 
 # Downloads 
 
 Auf dieser Seite finden sich Downloads von Einsatzabteilung und Verein
 
-[Übungsplan Einsatzabteilung](downloads/2020ÜbungsplanEinsatzabteilung.pdf)
+[Formular Sachkostenerstattung](downloads/Sachkostenerstattung.pdf)
 
-[Übungsplan Jugendfeuerwehr](downloads/2020ÜbungsplanJfw.pdf)
+[Satzung der Langsdorfer Stiftung](downloads/SatzungLangsdorferStiftung.pdf)
 
-[Übungsplan Minifeuerwehr](downloads/2020ÜbungsplanMinis.pdf)
+
