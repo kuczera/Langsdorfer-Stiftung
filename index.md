@@ -1,4 +1,4 @@
-|[Home](index.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
+|[Home](index.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|![Logo](img/Logo_Langsdorfer_Stiftung.png){:width="72px"}
 
 # Home 
 
