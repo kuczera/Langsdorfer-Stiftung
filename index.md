@@ -1,15 +1,19 @@
-|[Home](index.md)|[Kontakte](kontakte.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|[Einsätze](https://feuerwehr.lich.de/einsaetze)|
+|[Home](index.md)|[Downloads](downloads.md)|[Impressum](impressum.md)|
 
 # Home 
 
-![Logo](img/LogoFFwLangsdorf.png){:width="72px"}
+![Logo](img/Logo_Langsdorfer_Stiftung.png.png){:width="72px"}
 
-Die Freiwillige Feuerwehr Langsdorf stellt mit über 30 Aktiven die größte Ortsteilwehr der Feuerwehren der Stadt Lich.
+ Die Langsdorfer Stiftung wurde als Partnerstiftung der Bürgerstiftung Mittelhessen am 29. September 2008 gegründet. Das Stiftungskapital wurde durch die Gelder der Vereinsgemeinschaft „Dolles Dorf Langsdorf“ und durch Zuwendungen einzelner Langsdorfer Bürgerinnen und Bürger aufgebracht.
 
-Eine Übersicht zu den bisherigen Einsätzten findet sich auf der [Webseite der Feuerwehren der Stadt Lich](https://feuerwehr.lich.de/einsaetze) oder der [Webseite der Einsatzabteilung der Kernstadt](https://ffw-lich.de/einsaetze.html) der Einsatzabteilung der Kernstadt.
+Seitdem wurden jedes Jahr verschiedene Projekte unterstützt; z. B. an der Grundschule Langsdorf: JEKI (jedem Kind ein Musikinstrument), ein Bausystem (Möbel) für den Betreuungsverein der Schule, T-Shirts für die Jugend des Tennisvereins, Funkgeräte für die Jugendfeuerwehr, Bücher und Hörbücher für die Langsdorfer Bücherei usw.
 
-Leider müssen wir mitteilen, dass die tradtionsreiche Langsdorfer Kirmes im Jahr 2020 coronabedingt ausfallen muss.
+Entsprechend ihrem Stiftungszweck will die Langsdorfer Stiftung gesellschaftliche Vorhaben fördern, die im Interesse der Gemeinde und ihrer Bürgerinnen und Bürger liegen. Vor allem will die Stiftung den Gemeinschaftssinn im Dorf und die Mitverantwortung der Bürgerinnen und Bürger in unserem Dorf fördern und stärken und damit dazu beitragen, dass Langsdorf sich positiv entwickelt.
 
+Auf Ihre Antwort freuen wir uns.
 
+Mit freundlichen Grüßen
 
+Für den Stiftungsbeirat Sibylle Starzacher (Vorsitzende) 
 
+Den Projektantrag und das Formular für die Sachkostenerstattung (siehe oben unter Button [Downloads](downloads.md)) können Sie herunterladen und die ausgefüllten Formulare bei der Vorsitzenden Sibylle Starzacher, Licher Pforte 25, 35423 Lich-Langsdorf oder bei dem stellvertretenden Vorsitzenden Pfarrer Hans-Peter Gieß, Am Geiersberg 12, 35423 Lich-Langsdorf abgeben
